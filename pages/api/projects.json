@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "name": "VIBRANT",
+        "image": "https://imgur.com/fguA2Us.png",
+        "description": "A E-commerse platform where you can buy clothes and different fashion items",
+        "tags": ["next", "node", "razorpay", "tailwind", "react-query"],
+        "source_code": "https://github.com/chiragksharma/Vibrant_New",
+        "demo": "https://vibrant-new.vercel.app"
+    },
+    {
+        "id": 2,
+        "name": "Google Clone",
+        "image": "https://imgur.com/hpTmQhu.jpg",
+        "description": "Clone of the original Google website ",
+        "tags": ["react", "node", "redux", "material-ui"],
+        "demo": "https://www.linkedin.com/posts/chirag-kumar-sharma-5286b51b8_react-projects-google-activity-6897052464705519616-u1Dj?utm_source=linkedin_share&utm_medium=member_desktop_web"
+    },
+    {
+        "id": 3,
+        "name": "ECA Club Website",
+        "image": "https://imgur.com/dlvPeHA.png",
+        "description": "A common webite for all the clubs under ECA",
+        "tags": ["html", "css", "jquery", "javascript"],
+        "source_code": "https://github.com/chiragksharma/ECA-website--HTML-CSS-",
+        "demo": "https://eca-skit.netlify.app/"
+    },
+    {
+        "id": 4,
+        "name": "VSCode Portfolio",
+        "image": "https://imgur.com/mKkz0iz.png",
+        "description": "A themeable and developer-centric portfolio based on the VSCode",
+        "tags": ["next", "css-modules"],
+        "source_code": "",
+        "demo": "https://eca-skit.netlify.app/"
+    }
+]
